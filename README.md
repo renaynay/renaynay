@@ -1,8 +1,6 @@
 # i'm rene
 
-i work on [lazy ledger core](https://github.com/celestiaorg/lazyledger-core)
-
-i used to work at [geth](https://github.com/ethereum/go-ethereum), and before that, [whiteblock](https://github.com/whiteblock/genesis)
+i work on [celestia](https://github.com/celestiaorg)
 
 check out my [website](https://rene.sh)
 
